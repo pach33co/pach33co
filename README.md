@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Matheus!  
 
 🎨 **UX/UI Designer** com experiência em criação de interfaces digitais centradas no usuário.  
-💻 Atualmente estudando **HTML, CSS e JavaScript**, ampliando meus conhecimentos em desenvolvimento front-end.  
+💻 Atualmente estou estudando **HTML, CSS e JavaScript**, ampliando meus conhecimentos em desenvolvimento front-end e back-end.  
 🚀 Busco unir design e código para criar experiências digitais completas e funcionais.  
 
 ---
@@ -19,7 +19,8 @@
 ---
 
 ## 🌱 O que estou aprendendo no momento:
-- Desenvolvimento front-end (HTML5, CSS3, JavaScript)  
+- Desenvolvimento front-end (HTML5, CSS3, JavaScript)
+- Desenvolvimento back-end (JavaScript, MySQL)  
 - Integração de design com código  
 
 ---
